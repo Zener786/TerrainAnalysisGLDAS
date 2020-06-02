@@ -5,11 +5,9 @@
  :target: https://mybinder.org/v2/gh/Zener786/TerrainAnalysisGLDAS/master
  
 
-TERRAIN ANALYSIS BY GLDAS DATA
+## ABSTRACT
 
-## Abstract
-
-Extracting valuable information from satellite imagery is challenging primarily due to large amounts of data.Here is a python code through which you can extract gldas data throug Google Earth Engine Api and perform meaningful analysis and results out of it.
+Extracting valuable information from satellite imagery is challenging primarily due to large amounts of data.Here is a python code through which you can extract gldas data throug Google Earth Engine Api and perform meaningful analysis and results out of it and study according to  various  seasons.You don't need to download any data and all the work will be done in cloud itself.
 
 
 
